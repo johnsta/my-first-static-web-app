@@ -10,7 +10,7 @@ function App() {
     })();
   });
 
-  return <div>{data}</div>;
+  return <div>Hello World! {data}</div>;
 }
 
 export default App;
